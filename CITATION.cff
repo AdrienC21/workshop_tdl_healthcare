@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Carrel"
+  given-names: "Adrien"
+  orcid: "0000-0002-0051-2247"
+  affiliation: "Imperial College London, UK; CentraleSupelec, France"
+  email: "a.carrel@hotmail.fr"
+  website: "https://adriencarrel.com"
+title: "Workshop. Topological deep Learning: A new direction for artificial intelligence with healthcare applications."
+version: 1.0.0
+date-released: 2023-09-01
+url: "https://github.com/AdrienC21/workshop_tld_healthcare"
