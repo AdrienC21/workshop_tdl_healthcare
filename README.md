@@ -59,6 +59,10 @@ Download manually the files or clone the repository using, for example, the foll
 git clone https://github.com/AdrienC21/workshop_tdl_healthcare.git
 ```
 
+Then run the notebook `workshop_japan.ipynb`. You can run it on Google Colab.
+
+If you don't want all the "solutions" and want some small coding exercises, run instead the notebook `workshop_japan_v2.ipynb`. You can run it on Google Colab too.
+
 ## Citation
 
 If you use content from this workshop in your research, course, etc, please consider citing it using the following BibTeX entry:
